@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8EBD183171E8e3d194F5676E1B5A928Ff9a05F46",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x8EBD183171E8e3d194F5676E1B5A928Ff9a05F46",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Mumbai",
+    "ID": 80001
+  },
+  "NFT_NAME": "Cryptocraftman202112084",
+  "SYMBOL": "CCM202112084",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/account",
+  "SHOW_BACKGROUND": true
+}
